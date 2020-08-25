@@ -9,4 +9,6 @@ It was created with Type 3.2 software for the Mac.
 
 The font and associated glyphs information file have been dedicated to the public domain under a Creative Commons CC0 1.0 dedication. See License.md for details.
 
+## Example
 
+![A display of alphabetical characters rendered in the Standard Blackletter font.](https://raw.githubusercontent.com/standardebooks/standard-blackletter-font/master/sample.jpg)
