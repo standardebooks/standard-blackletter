@@ -1,12 +1,11 @@
-# Standard-Blackletter-Font
-A blackletter font created for the Standard Ebooks project.
+# Standard Blackletter
 
-This font was created to provide a public domain font which can be embedded in ebooks produced by Standard Ebooks (standardebooks.org).
+Standard Blackletter is a blackletter font created to provide a public domain font which can be embedded in ebooks produced by [Standard Ebooks](https://standardebooks.org).
 
-The font was created by David Grigg, based on a pre-1924 lettering manual (https://archive.org/details/zanerianmanualof00zane), with a number of custom additions.
+The font was created by David Grigg in 2019 using Type 3.2. It is based on a blackletter typeface found in a [1918 lettering manual](https://archive.org/details/zanerianmanualof00zane), with a number of custom additions.
 
-It was created with Type 3.2 software for the Mac.
+The font and associated glyphs information file have been dedicated to the public domain via the Creative Commons CC0 1.0 dedication. See LICENSE.md for details.
 
-The font and associated glyphs information file have been dedicated to the public domain under a Creative Commons CC0 1.0 dedication. See License.md for details.
+# Sample
 
-
+![A display of alphabetical characters rendered in the Standard Blackletter font.](https://raw.githubusercontent.com/standardebooks/standard-blackletter-font/master/sample.jpg)
